@@ -1,2 +1,2 @@
-# Github.Zvonilka.Site
-Github.Zvonilka.Side
+# Zvonilka.Site
+Zvonilka.Side
