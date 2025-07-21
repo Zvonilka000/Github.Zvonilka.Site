@@ -1,25 +1,90 @@
 div {
-    font-size: 150%;
-    margin: 6%;
+    font-size: 200%;
+    margin: 2%;
+    color: white;
+    text-align: center;
 }
 
-#asd {
-    color: red;
+#zxc {
+    color: white;
+    text-align: center;
 }
 
 #qwe {
-    color: blue;
+    text-align: center;
 }
 
-a {
-    color: green;
+#ob1 {
+    background-color: #009dff;
+    color: white;
+    padding-left: 35%;
+    padding-right: 35%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    margin-top: 15%;
+    margin-bottom: 15%;
+}
+
+#ob2 {
+    background-color: #a10625;
+    color: white;
+    padding-left: 35%;
+    padding-right: 35%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    margin-top: 15%;
+    margin-bottom: 15%;
+}
+
+#ob3 {
+    background-color: black;
+    color: white;
+    padding-left: 35%;
+    padding-right: 35%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    margin-top: 15%;
+    margin-bottom: 15%
+}
+
+body {
+    background-image: url('images/wallpaper.jpg');
+    background-size: 100%;
 }
 
 #wer {
-    margin-left: 20%;
-    margin-right: 20%;
+    margin-top: 10%;
+    margin-left: 30%;
+    margin-right: 30%;
 }
 
-#sdf {
-    color: black;
+#zxc {
+    text-align: center;
+    font-size: 300%;
+}
+
+a {
+    text-decoration: none;
+}
+
+#ob4 {
+    background-color: #009dff;
+    color: white;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    margin-top: 15%;
+    margin-bottom: 15%;
+}
+
+#ob5 {
+    background-color: #009dff;
+    color: white;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    margin-top: 15%;
+    margin-bottom: 15%;
 }
