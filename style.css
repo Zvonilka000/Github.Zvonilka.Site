@@ -26,7 +26,7 @@ div {
 }
 
 #ob1 {
-    background-color: #009dff;
+    background-color: #009DFE;
     color: white;
     padding-left: 28%;
     padding-right: 28%;
@@ -83,4 +83,9 @@ a {
     padding-right: 28%;
     padding-top: 5%;
     padding-bottom: 5%;
+}
+
+#end1 {
+    font-size: 50%;
+    opacity: 50%;
 }
